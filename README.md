@@ -1,4 +1,3 @@
-<img align='center' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180
 <h2> Hey there! I'm Stephen.</h2>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -31,10 +30,7 @@
 
 <br/>
 
-<a href="https://github.com/KernelXDA">
-<p align="center" >
-<img alt="Raghav's github stats" src="https://github-readme-stats.vercel.app/api?username=KernelXDA&show_icons=true&theme=merko"  > </p>
-</a>
+
 
 <br/>
 
