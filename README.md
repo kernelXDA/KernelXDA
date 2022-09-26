@@ -2,10 +2,10 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Currently studying Computer Science: Web programming at University of Harvard.
 - 🌱 &nbsp; Learning more about Web Architecture, Web Design and ReactJS.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- ✍️ &nbsp; Pursuing Web Design as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -27,11 +27,7 @@
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-
 <br/>
-
-
-
 <br/>
 
 <h3> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> &nbsp;Connect with Me </h3>
