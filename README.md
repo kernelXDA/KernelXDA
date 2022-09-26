@@ -28,7 +28,7 @@
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
-<h3> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> &nbsp;Connect with Me </h3>
+<h3> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> &nbsp;Connect with Me </h3>
 
 <a href="https://vhub.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.vhub.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.instagram.com/isahaze___/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-isahaze___-blue?style=flat-square&logo=instagram"></a>
