@@ -1,11 +1,11 @@
 <h2> Hey there! I'm Stephen.</h2>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> A little more about me...  
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Currently studying Computer Science: Web programming at University of Harvard.
+- 🕵🏻 &nbsp; Exploring new technologies and developing software solutions.
+- 🧑🏻‍🏫 &nbsp; Currently studying Computer Science: Web programming at University of Harvard.
 - 🌱 &nbsp; Learning more about Web Architecture, Web Design and ReactJS.
-- ✍️ &nbsp; Pursuing Web Design as hobbies/side hustles.
+- 👩‍💻 &nbsp; Pursuing Web Design as hobbies/side hustles.
 
 <h3> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> &nbsp;Tech Stack</h3>
 
