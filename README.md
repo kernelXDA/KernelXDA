@@ -5,7 +5,7 @@
 - 🕵🏻 &nbsp; Exploring new technologies and developing software solutions.
 - 🧑🏻‍🏫 &nbsp; Currently studying Computer Science: Web programming at University of Harvard.
 - 🌱 &nbsp; Learning more about Web Architecture, Web Design and ReactJS.
-- 👩‍💻 &nbsp; Pursuing Web Design as hobbies/side hustles.
+- 👩‍💻 &nbsp; Pursuing Web Design as hobbie.
 
 <h3> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> &nbsp;Tech Stack</h3>
 
