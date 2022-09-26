@@ -7,7 +7,7 @@
 - 🌱 &nbsp; Learning more about Web Architecture, Web Design and ReactJS.
 - ✍️ &nbsp; Pursuing Web Design as hobbies/side hustles.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
