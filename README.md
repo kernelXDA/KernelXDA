@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
 
-<h2> Hey there! I'm Steohen.</h2>
+<h2> Hey there! I'm Stephen.</h2>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -33,8 +33,8 @@
 <br/>
 
 <a href="https://github.com/kernelxda">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kernelxda&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kernelxda&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
 </a>
 
 <br/>
