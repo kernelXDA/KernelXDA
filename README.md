@@ -31,13 +31,13 @@
 <br/>
 
 <a href="https://github.com/KernelXDA">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" /
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KernelXDA=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KernelXDA=buefy&layout=compact" /
 </a>
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> &nbsp;Connect with Me </h3>
 
 <a href="https://soon.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.soon.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.instagram.com/isahaze___/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-isahaze___-blue?style=flat-square&logo=instagram"></a>
