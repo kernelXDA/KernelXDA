@@ -3,7 +3,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> A little more about me...  
 
 - 🕵🏻 &nbsp; Exploring new technologies and developing software solutions.
-- 🧑🏻‍🏫 &nbsp; Currently studying Computer Science: Web programming at University of Harvard.
+- 🧑🏻‍🏫 &nbsp; Currently studying Computer Science: Web programming - University of Harvard.
 - 🌱 &nbsp; Learning more about Web Architecture, Web Design and ReactJS.
 - 👩‍💻 &nbsp; Pursuing Web Design as hobbie.
 
