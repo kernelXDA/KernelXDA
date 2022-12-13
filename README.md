@@ -7,6 +7,8 @@
 - 🌱 &nbsp; Learning more about Web Architecture, Web Design and ReactJS.
 - 👩‍💻 &nbsp; Pursuing Web Design as hobbie.
 
+- *Native language: French.*
+
 <h3> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
