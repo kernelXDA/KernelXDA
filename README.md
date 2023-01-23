@@ -35,6 +35,6 @@
 
 <a href="https://vhub.fr/"><img alt="Website" src="https://img.shields.io/badge/Website-www.vhub.fr-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.instagram.com/isahaze___/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-isahaze___-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:kaseidei.x@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kaseidei.x@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:contact@sharbies.com"><img alt="Email" src="https://img.shields.io/badge/Email-contact@sharbies.com-blue?style=flat-square&logo=gmail"></a>
 
 
